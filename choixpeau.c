@@ -2,6 +2,8 @@
 /* Créer le 22 mai 2023
 * par Nivetha Jeyakumar
 * Master IRS P33
+*
+* C vs Python (Mini-jeu)
 */
 
 #include <stdio.h>
